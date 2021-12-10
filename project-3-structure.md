@@ -3,7 +3,7 @@
 ### In this example our project will be called 'projector'
 
 ```bash
-$ npx ironlauncher projector --json
+$ npx ironlauncher@latest projector --json
 ```
 
 ### Now we will go into the root project folder and create a react app there - this will be in a folder called 'client'
